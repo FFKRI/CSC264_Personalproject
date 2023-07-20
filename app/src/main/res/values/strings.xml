@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Birdy</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="click_to_login">Click To Login</string>
+    <string name="click_to_Register">Click To Register</string>
+    <string name="logout">Log Out</string>
+    <string name="click_here_to_login">Click here to login</string>
+    <string name="click_here_to_register">Click here to register</string>
+    <string name="name">Name</string>
+    <string name="title_activity_about_developer">AboutDeveloperActivity</string>
+    <string name="mohamad_fikri_bin_bukhari_2021600168_part4_uitm_machang_students">MOHAMAD FIKRI BIN BUKHARI\n(2021600168)\nPART4 \nUITM MACHANG \nSTUDENTS\nPersonal Project</string>
+    <string name="mohamad_fikri_bin_bukhari">NAME:MOHAMAD FIKRI BIN BUKHARI\nID:2021600168\nPART:4\nPERSONAL PROJECT FOR CSC264</string>
+</resources>
